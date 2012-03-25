@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, HiScoreGameActivity!</string>
+    <string name="app_name">HiScoreGame</string>
+    <string name="START">START</string>
+    <string name="RANKING">RANKING</string>
+    <string name="INIT_SCORE">0</string>
+    <string name="MAIN_MENU">メインメニュー</string>
+    <string name="END">終了</string>
+    <string name="REGIST">登録</string>
+    <string name="CANCEL">キャンセル</string>
+
+</resources>
